@@ -2,7 +2,7 @@ import { useCallback } from 'react'
 import { List } from '../atoms/List'
 import { Text } from '../atoms/Text'
 import { BookingStepsTexts } from '../particles/DataLists'
-import { AirplaneInFlight, AirplaneTilt, Buildings, MapTrifold, Receipt, Wallet } from '@phosphor-icons/react'
+import { AirplaneInFlight, AirplaneTilt, MapTrifold, Receipt, Wallet } from '@phosphor-icons/react'
 import { Card } from '../molecules/Card'
 import CardImage1 from "../../assets/cv2.jpg"
 import CardImage2 from "../../assets/flag.png"
