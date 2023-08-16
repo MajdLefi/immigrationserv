@@ -3,8 +3,6 @@ import bgImage from "../../assets/HeroVector.png"
 import heroImage from "../../assets/hero-img.png"
 import { Text } from "../atoms/Text"
 import { HeroTexts } from "../particles/DataLists"
-import { Button } from "../atoms/Button"
-import { Play } from "@phosphor-icons/react"
 import { Fade, Slide } from "react-awesome-reveal"
 
 

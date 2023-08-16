@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react"
 import { Image } from "../atoms/Image";
 import Logo from "../../assets/immigrationserv3.png"
-import { useNavigate } from "react-router-dom";
 import { ArrowCircleRight } from "@phosphor-icons/react";
 import { Slide } from "react-awesome-reveal";
 
